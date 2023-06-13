@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "embroid"
+version = "0.1.0"
+description = ""
+authors = ["Neel Guha <neelguha@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+black = "^23.3.0"
+isort = "^5.12.0"
+numpy = "^1.24.3"
+flyingsquid = "^0.0.0-alpha.0"
+pgmpy = "^0.1.22"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
