@@ -53,7 +53,14 @@ poetry run jupyter notebook # To run notebook
 
 ## Citation
 
-Coming shortly.
+```
+@article{guha2023embroid,
+  title={Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification},
+  author={Guha, Neel and Chen, Mayee F and Bhatia, Kush and Mirhoseini, Azalia and Sala, Frederic and R{\'e}, Christopher},
+  journal={arXiv preprint arXiv:2307.11031},
+  year={2023}
+}
+```
 
 ## Contact
 
