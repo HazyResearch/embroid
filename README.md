@@ -5,7 +5,7 @@ This repository provides the official implementation of Embroid from the followi
 **Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification**<br>
 Neel Guha*, Mayee F. Chen*, Kush Bhatia*, Azalia Mirhoseini, Fred Sala, and Christopher Ré
 
-Paper: **INSERT LINK**
+Paper: <https://arxiv.org/abs/2307.11031>
 
 ![banner](./figs/banner.png)
 
